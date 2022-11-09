@@ -34,18 +34,26 @@ options(knitr.kable.NA = "")
 
 #
 
-Predators and prey have a suite of strategies they use to maximize benefit with the least cost. Predators are able to switch between food sources when one source becomes hard to find [@carle]. Other strategies can be gleaned from our foraging lab - central place foraging and traplining, in which a predator will center themselves where prey generally congregates or when a predator uses the most efficient path possible. Prey strategies focus decreasing the cost of predation by predator avoidance, group foraging, or mimicry. In these situations prey can avoid capture, work as a group, or mimic a toxic species. Each strategy, either predator or prey, confers selective pressures on the other groups and on associated species not involved in the interaction.
+Predators and prey have a suite of strategies they use to maximize benefit with the least cost. Predators are able to switch between food sources when one source becomes hard to find [@carle]. Other strategies can be gleaned from our foraging lab - central place foraging and traplining, in which a predator will center themselves where prey generally congregates or when a predator uses the most efficient path possible. Prey strategies focus decreasing the cost of predation through group foraging, crypticism, or mimicry. With each strategy prey can avoid capture by working as a group, disguising oneself as an inanimate object, or mimicking a toxic species when foraging. Each strategy, either predator or prey, confers some selective pressures on the other groups and on associated species not involved in the interaction.
 
 #
 
-There is evidence that predators will switch their food source to a toxic prey when undefended prey are better concealed [@carle], however the authors stipulate a natural environment could undermine this switch in diet. Their results suggest that this change in diet follows a risk-prone strategy, in which, the predator eats more toxic prey when the probability of finding undefended prey is low. This strategy leads to selective pressure on the predator to tolerate toxins and on the prey to be more cryptic or more toxic. In the foraging lab, simulated predators followed two strategies - central place foraging and traplining - in the first, one predator stayed where prey was most abundant while the latter predator took the most efficient path to capture prey. For central place foraging, this strategy maximizes benefit and minimizes the cost of searching for food. Alternatively, traplining does the same to a lesser degree by maximizing prey capture and reduces the cost to search.
+There is evidence that predators will switch their food source to a toxic prey when undefended prey are better concealed [@carle], however the authors stipulate a natural environment could undermine this switch in diet. Their results suggest that this change in diet follows a risk-prone strategy, in which, the predator eats more toxic prey when the probability of finding undefended prey is low. This strategy leads to selective pressure on the predator to tolerate toxins and on the prey to be more cryptic or more toxic. In the foraging lab, simulated predators followed two strategies - central place foraging and traplining - in the first, one predator stayed where prey was most abundant while the latter predator took the most efficient path to capture prey. For central place foraging, this strategy maximizes benefit and minimizes the cost of searching for food. Alternatively, traplining does the same to a lesser degree by maximizing prey capture and reduces the cost to search. In this method, the predator optimizes their foraging path in a group of prey at the reduced cost to search and increased resource benefit.
 
-# Prey Strategies
+# 
 
+The foraging lab revealed that group foraging can increase individual benefit at the cost of sharing with group members. Working in a group reduced competition from non-group members because their access to the resource was reduced. Combining efforts increases foraging efficiency for group members by cutting searching time in half and decreases the probability of predation on an individual group member versus a random non-group member. Group size increases visibility, contrary to  crypticism where prey disguise themselves as an inanimate object. In rock outcrop communities, invertebrate prey blend in to the background to acquire resources at the least cost. Optimal foraging in this way enables prey to adopt a central place foraging strategy to maximize prey capture and predator avoidance, and minimize search time. Mullerian mimicry provides the benefit of reduced predation due to toxicity at the cost of maintaining toxicity and aposemitism. According to @cuthill, there is evidence that Mullerian mimics coevolve in a mimicry arms race where the larger population drives divergence and the rarer receives greater benefit. In a predator switching model, a mimic forages most optimally when their warning coloration is effective and toxic enough to enforce the warning. 
 
+# 
 
-# Conclusion
-
-conclusive words
+Strategies in which prey can forage optimally through aposemitism, by being cryptic, or in a group at the cost of sharing and benefit of reduced predation. Predator strategies include; traplining, central place foraging, and diet switching - each with respective foraging benefits and costs. The strategies employed by predators and prey provide selection pressures on effectivness of predator and prey strategies directly involved in the interaction. Unassociated species experience some selective pressure as a result of reduced predation during switching or increased crypticism or aposemitism, for example. Further research is needed on the indirect effects of codivergence between predator and prey associated with predation and species unassociated with the interaction. Predator and prey strategies confer benefits and costs to foraging and the interaction between strategies and species could be an interesting avenue for future coevolutionary research. 
 
 # References
+
+
+
+
+
+
+
+

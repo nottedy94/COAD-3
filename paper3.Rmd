@@ -32,12 +32,20 @@ options(knitr.kable.NA = "")
 
 ```
 
-# Introduction
+#
 
-# Predator Strategies
+Predators and prey have a suite of strategies they use to maximize benefit with the least cost. Predators are able to switch between food sources when one source becomes hard to find [@carle]. Other strategies can be gleaned from our foraging lab - central place foraging and traplining, in which a predator will center themselves where prey generally congregates or when a predator uses the most efficient path possible. Prey strategies focus decreasing the cost of predation by predator avoidance, group foraging, or mimicry. In these situations prey can avoid capture, work as a group, or mimic a toxic species. Each strategy, either predator or prey, confers selective pressures on the other groups and on associated species not involved in the interaction.
+
+#
+
+There is evidence that predators will switch their food source to a toxic prey when undefended prey are better concealed [@carle], however the authors stipulate a natural environment could undermine this switch in diet. Their results suggest that this change in diet follows a risk-prone strategy, in which, the predator eats more toxic prey when the probability of finding undefended prey is low. This strategy leads to selective pressure on the predator to tolerate toxins and on the prey to be more cryptic or more toxic. In the foraging lab, simulated predators followed two strategies - central place foraging and traplining - in the first, one predator stayed where prey was most abundant while the latter predator took the most efficient path to capture prey. For central place foraging, this strategy maximizes benefit and minimizes the cost of searching for food. Alternatively, traplining does the same to a lesser degree by maximizing prey capture and reduces the cost to search.
 
 # Prey Strategies
 
+
+
 # Conclusion
+
+conclusive words
 
 # References

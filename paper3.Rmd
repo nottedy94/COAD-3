@@ -1,5 +1,5 @@
 ---
-title: "Title TBD"
+subtitle: "Predator and Prey Strategies"
 author: "J. Hillert"
 date: "`r Sys.Date()`"
 output:
@@ -32,7 +32,12 @@ options(knitr.kable.NA = "")
 
 ```
 
-#
+# Introduction
 
+# Predator Strategies
+
+# Prey Strategies
+
+# Conclusion
 
 # References
